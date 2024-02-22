@@ -1,0 +1,50 @@
+.banner1 {
+    background-image: url("../imagenes/banner-nat.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.container-fluid1 {
+    padding-top: 210px;
+    padding-bottom: 200px;
+}
+
+.container-fluid2 {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.titulo2 {
+    font-size: 40px;
+    color: #fff;
+}
+
+.fondo1 {
+    background-color: #ded1db;
+}
+
+i{
+    color: #fff;
+    font-size: 50px;
+}
+
+.btnPos {
+    background-color: rgb(164, 188, 233);
+}
+
+.container-fluid4 {
+    padding-top: 400px;
+    padding-bottom: 400px;
+}
+
+.banner2 {
+    background-image: url("../imagenes/banner-rio.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.titulo2 {
+    font-size: 40px;
+    color: #fff;
+}

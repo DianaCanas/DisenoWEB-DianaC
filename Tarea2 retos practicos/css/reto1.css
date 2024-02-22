@@ -1,0 +1,50 @@
+.titulo1 {
+    font-weight: bolder;
+    text-align: left;
+    color:crimson;
+    font-size: 50px;
+}
+
+.container-fluid1 {
+    padding-top: 40px;
+    background-color:bisque;
+    
+    padding-bottom: 40px;
+}
+
+.btnPos {
+    background-color: coral;
+
+}
+
+.container-fluid2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.fondo1 {
+    background-color: darkkhaki;
+}
+
+.titulo2 {
+    font-weight: bolder;
+    text-align: left;
+    color:rgb(189, 115, 130);
+    font-size: 50px;
+}
+
+.btn2{
+    background-color: aquamarine ;
+    color:darkblue;
+}
+
+.fondo2 {
+    background-color: rgb(118, 118, 181);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tam {
+    font-size: larger;
+}
+
