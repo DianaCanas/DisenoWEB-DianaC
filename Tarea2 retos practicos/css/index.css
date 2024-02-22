@@ -1,0 +1,33 @@
+.container-fluid1 {
+    padding-top: 40px;
+    background-color:rgb(120, 95, 240);
+    padding-bottom: 40px;
+}
+
+
+.titulo1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.container-fluid2 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color:rgb(238, 199, 252);
+}
+
+.btnPos{
+    background-color: rgb(99, 9, 124);
+}
+
+.fondo1{
+    background-color: rgb(161, 104, 165) ;
+    padding-top: 40px;
+     padding-bottom: 40px;
+ 
+ }
+ 
+ .tam{
+ 
+     font-size: larger;
+ }
