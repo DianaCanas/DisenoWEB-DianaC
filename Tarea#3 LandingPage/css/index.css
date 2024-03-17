@@ -1,0 +1,127 @@
+.banner1 {
+    background-image: url("../imagenes/bannerteatro.jpg");
+    background-size: cover;
+    background-position: center;
+    /*background-attachment: fixed;*/
+}
+
+.container-fluid1 {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.container-fluid2 {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    background-color: rgb(6, 18, 59);
+    
+}
+
+.container-fluid3 {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.titulo2 {
+    
+    color: #0a91cf;
+    font-size: 40px;
+    padding-top: 40px ;
+
+}
+
+.titulo3 {
+    
+    color:#0a91cf;
+    font-size: 25px;
+
+}
+
+.back{
+    background-color: rgb(72, 132, 185);
+}
+
+.btnPos {
+    background-color:rgb(196, 181, 49);
+    transition: background-color 0.3s ease; 
+}
+
+.btnPos:hover {
+    background-color: #ed0c8f; 
+  }
+  
+
+.banner2 {
+    background-image: url("../imagenes/banner2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.titulo4 {
+    font-size: 40px;
+    color: #100101;
+    background-color: rgb(255, 255, 255);
+}
+
+.container-fluid4 {
+    padding-top: 70px;
+    padding-bottom: 100px;
+    background-color: rgb(2, 2, 109);
+}
+
+.titulo3 {
+    color: #000;
+    font-size: 50px;
+}
+
+.mapa{
+    background-color: rgb(39, 144, 213);
+}
+
+.container-fluid5 {
+    padding-top: 70px;
+    padding-bottom: 100px;
+    background-color: rgb(108, 108, 186);
+    font-size: larger;
+}
+
+i{
+    font-size: 50px;
+    color: greenyellow;
+}
+
+.container-fluid6 {
+    
+    padding-bottom: 30px;
+}
+
+.btnC{
+    font-size: large;
+    background-color: rgb(42, 208, 254);
+    padding: 10px 20px;
+    transition: background-color 0.3s ease; 
+    
+}
+
+.btnC:hover {
+  background-color: #ed0c0c; 
+}
+
+
+.goto-top {
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    width: 75px;
+    height: 50px;
+}
+
+.tam{
+    font-size: larger;
+}
+
+.animacion1 {
+    width: 100% !important;
+}
