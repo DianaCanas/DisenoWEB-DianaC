@@ -1,0 +1,44 @@
+
+.navbar {
+    background-color: #003F5F; 
+  }
+  
+  
+  .navbar-nav .nav-link {
+    color: #ffffff; 
+  }
+  
+
+  .navbar-nav .nav-item {
+    background-color:rgb(144, 176, 235); 
+  }
+  
+  .navbar-nav .nav-item:hover {
+    background-color: #003d6b; /
+  }
+  
+  
+  .navbar-nav .nav-item.active {
+    background-color: #003d6b; 
+  }
+  
+  .custom-toggler .navbar-toggler {
+    color: #ffffff;
+    background-color: #ffffff;
+  }
+  .custom-toggler .navbar-toggler-icon {
+    filter: invert(1); 
+    border-color: #ffffff;
+    box-shadow: #ffffff;
+    
+  }
+
+  .container-fluid1 {
+    padding-top: 280px;
+  
+}
+
+h1{
+    font-size: 50px;
+}
+
