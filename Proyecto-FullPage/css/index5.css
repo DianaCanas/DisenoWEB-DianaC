@@ -1,0 +1,102 @@
+
+.navbar {
+    background-color: #003F5F; 
+  }
+  
+  
+  .navbar-nav .nav-link {
+    color: #ffffff; 
+  }
+  
+
+  .navbar-nav .nav-item {
+    background-color:rgb(144, 176, 235); 
+  }
+  
+  .navbar-nav .nav-item:hover {
+    background-color: #003d6b; /
+  }
+  
+  
+  .navbar-nav .nav-item.active {
+    background-color: #003d6b; 
+  }
+  
+  .custom-toggler .navbar-toggler {
+    color: #ffffff;
+    background-color: #ffffff;
+  }
+  .custom-toggler .navbar-toggler-icon {
+    filter: invert(1); 
+    border-color: #ffffff;
+    box-shadow: #ffffff;
+    
+  }
+
+  .banner1 {
+    background-image: url("../imagenes/aguasT.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.container-fluid1 {
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.accordion-body {
+    background-color: #4866ab;
+}
+
+
+.accordion-button:is(.collapsed)::after {
+    box-shadow: none;
+    background-color:  #8bb0e0;
+}
+
+.accordion-button:not(.collapsed)::after {
+    box-shadow: none;
+    background-color: #8bb0e0;
+}
+
+
+
+
+.accordion-button {
+    color: #404db1 !important;
+    font-size: 20px;
+}
+
+
+.accordion-button:hover {
+    color: #000 !important;
+    background-color: rgb(40, 118, 142);
+}
+
+
+.accordion-button:focus {
+    color: #5957a7 !important;
+    background-color: rgb(171, 186, 255);
+}
+
+.container-fluid2 {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.fondo3 {
+    background-color: #051256;
+}
+
+i{
+   font-size: 40px;
+   color: #213dc6;
+}
+
+.space1 {
+    font-family: "Space Grotesk", sans-serif;
+    font-weight:300;
+    font-style: normal;
+  }

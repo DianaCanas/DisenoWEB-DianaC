@@ -1,0 +1,14 @@
+
+
+@media (max-width: 576px) {
+    body{
+        background-color: #a7d79e;
+    }
+
+    .display-1{
+        font-size: 40px;
+        color:#dc5fbf;
+    }
+}
+
+
